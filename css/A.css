@@ -1,0 +1,18 @@
+*{
+    margin: 0; padding: 0;
+}
+
+body
+{
+    background-image: url(https://i.blogs.es/def5ab/pexels-photo-577585/450_1000.jpeg);
+}
+
+.amarillo {
+    float: left;
+    width: auto;
+    height: 15pt;
+    cursor: pointer;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+ }
